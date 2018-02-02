@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b136323e84e1f307ce73d48148dbfa12",
+    "packages": [
+        {
+            "name": "pnikolov/spin.js",
+            "version": "2.3.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pnikolov/spin.js.git",
+                "reference": "ad364c2946ccfd4853b063bda87dc805301381ef"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pnikolov/spin.js/zipball/ad364c2946ccfd4853b063bda87dc805301381ef",
+                "reference": "ad364c2946ccfd4853b063bda87dc805301381ef",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Plamen Nikolov",
+                    "email": "plamen@athlonsofia.com",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Felix Gnass",
+                    "homepage": "http://github.com/fgnass/spin.js",
+                    "role": "Author"
+                }
+            ],
+            "description": "Wrapper of spin.js component. An animated CSS3 loading spinner with VML fallback for IE.",
+            "homepage": "http://spin.js.org",
+            "keywords": [
+                "CSS3",
+                "animation",
+                "spinner"
+            ],
+            "time": "2016-04-07T15:28:08+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

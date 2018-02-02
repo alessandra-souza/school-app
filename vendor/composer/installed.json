@@ -1,0 +1,44 @@
+[
+    {
+        "name": "pnikolov/spin.js",
+        "version": "2.3.2",
+        "version_normalized": "2.3.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/pnikolov/spin.js.git",
+            "reference": "ad364c2946ccfd4853b063bda87dc805301381ef"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/pnikolov/spin.js/zipball/ad364c2946ccfd4853b063bda87dc805301381ef",
+            "reference": "ad364c2946ccfd4853b063bda87dc805301381ef",
+            "shasum": ""
+        },
+        "time": "2016-04-07T15:28:08+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Plamen Nikolov",
+                "email": "plamen@athlonsofia.com",
+                "role": "Maintainer"
+            },
+            {
+                "name": "Felix Gnass",
+                "homepage": "http://github.com/fgnass/spin.js",
+                "role": "Author"
+            }
+        ],
+        "description": "Wrapper of spin.js component. An animated CSS3 loading spinner with VML fallback for IE.",
+        "homepage": "http://spin.js.org",
+        "keywords": [
+            "CSS3",
+            "animation",
+            "spinner"
+        ]
+    }
+]

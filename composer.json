@@ -1,0 +1,6 @@
+{
+    "name": "silex/silex",
+    "require": {
+        "pnikolov/spin.js": "^2.3"
+    }
+}

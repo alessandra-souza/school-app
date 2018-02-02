@@ -1,0 +1,17 @@
+IndexIgnore *
+Options +FollowSymlinks
+Options -Indexes
+
+RewriteEngine On
+
+RewriteBase /
+
+
+
+RewriteRule ^api/(.*)$ /api.php?uri=$1 [QSA,L]
+
+
+RewriteCond %{REQUEST_URI} !^/index\.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* /index.php [L]

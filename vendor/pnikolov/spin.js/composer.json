@@ -1,0 +1,19 @@
+{
+  "name": "pnikolov/spin.js",
+  "description": "Wrapper of spin.js component. An animated CSS3 loading spinner with VML fallback for IE.",
+  "license": "MIT",
+  "homepage": "http://spin.js.org",
+  "keywords": ["spinner", "animation", "css3"],
+  "authors": [
+    {
+      "name": "Felix Gnass",
+      "role": "Author",
+      "homepage": "http://github.com/fgnass/spin.js"
+    },
+    {
+      "name": "Plamen Nikolov",
+      "role": "Maintainer",
+      "email": "plamen@athlonsofia.com"
+    }
+  ]
+}
